@@ -31,3 +31,11 @@ Run GNU Radio Companion
 
 Simply open a terminal with the appropriate button in Start/System Tools/XTerm
 and run 'gnuradio-companion' from the terminal.
+
+Install new GNU Radio Out-of-Tree modules
+-----------------------------------------
+
+The image contains a full PyBOMBS installation. So feel free to run PyBOMBS
+and install new packages. For example:
+
+$ pybombs install gr-radar
